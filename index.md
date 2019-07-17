@@ -9,7 +9,7 @@
       <p><b>微信：1804065684</b></p>
     </td>
     <td width="25%">
-      <img src="glba.jpg" width="100%">     
+      <img src="/gjba.jpg" width="100%">     
     </td>
   </tr>
 </table>
