@@ -1,3 +1,19 @@
+
+<table border="0">
+  <tr>
+    <td width="75%">
+      <h1>朱心洲</h1>
+      <p><b>本科</b></p>
+      <p><b>华东交通大学软件学院</b></p>
+      <p><b>邮箱：zhuxinzhou999@gmail.com</b></p>
+      <p><b>微信：1804065684</b></p>
+    </td>
+    <td width="25%">
+      <img src="/zhengjianzhao.jpg" width="100%">     
+    </td>
+  </tr>
+</table>
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/zhuxinzhou/zhuxinzhou.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
