@@ -14,40 +14,23 @@
   </tr>
 </table>
 
-## Welcome to GitHub Pages
+## 简介
+  朱心洲，Python工程师，华东交通大学软件工程专业。专业排名4%（16/449），通过软件设计师考试。熟悉MVC,MVVM的设计思想。
 
-You can use the [editor on GitHub](https://github.com/zhuxinzhou/zhuxinzhou.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### 后端部分
+能够熟练使用django，flask框架。精通操作mongodb和mysql等数据库，以及数据库的设计。并能根据索引做出相应的查询优化。熟练掌握通过nginx部署web服务。开发风格符合restful设计规范。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### 前端部分
+掌握htmlcss的基础知识，以及flex/grid等布局方式。可以熟练使用Bootstrap，精通javascript基本语法以及jquery的ajax、animate、echart.js等库。熟练掌握微信小程序的基本开发、模板消息、微信支付等模块。熟练使用vue.js+axios做前后端分离项目的开发。
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### 算法部分
+熟悉http的基本请求。爬取过优酷、京东、CSDN等相关网站，熟练使用python中的matlab、wordcloud等数据可视化包。
 
-```markdown
-Syntax highlighted code block
+掌握机器学习相关基本算法（决策树、KNN、SVM、神经网络等），能够使用keras、tensorflow等框架最一些基本问题的分析；
 
-# Header 1
-## Header 2
-### Header 3
+### 操作系统
+使用ubuntu18.4环境开发，熟悉linux基本命令，能够熟练的在linux服务器上部署服务。
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/zhuxinzhou/zhuxinzhou.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
